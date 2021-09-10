@@ -1,16 +1,17 @@
-### Hi there 👋
+# Merhaba ben cyrèx.
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/252501544438595594)](https://discord.com/users/252501544438595594)
+## Hakkımda
+- 18 yaşındayım ve Javascript, Python, Php dillerine hakimim.
+- Çoğunlukla discord botları geliştirerek kendi çapımda eğleniyorum
 
-<!--
-**cyrexdd/cyrexdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github İstatistiklerim
+![Cyrex](https://github-readme-stats.vercel.app/api?username=cyrexd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
-Here are some ideas to get you started:
+## Sosyal Medya Hesaplarım
+- Discord: [cyrèx#1976](https://discord.com/users/329521933093961730)
+- Instagram: [cyrexdead](https://instagram.com/cyrexdead)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+Bakma bize boşuna dik dik, piyasanın babası biziz çünkü anasını siktik
